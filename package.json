@@ -1,0 +1,11 @@
+{
+  "name": "ou-courrir",
+  "version": "1.0.0",
+  "description": "application web pour partager des itinéraires de courses à pied et filtrer suivant différents type de données ( longueur, dénivelée, terrain ... )",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "YLT",
+  "license": "ISC"
+}
